@@ -2,6 +2,8 @@
 Simple way to make Face-recognition system
 you just need to install face_recognition module on your pc
 for face_recognition installation you also need to install CMAKE and DLIB(according to python version)
+
+
 step 1 
 check to python version 
     (python --version) on anaconda prompt
