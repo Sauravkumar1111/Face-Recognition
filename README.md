@@ -5,12 +5,17 @@ for face_recognition installation you also need to install CMAKE and DLIB(accord
 step 1 
 check to python version 
     (python --version) on anaconda prompt
+
 step2    
 then install cmake
      -> pip3 install cmake
+
+
 step3
 then install dlib file according to your python version
       -> pip3 install 'file location'
+          i provided you dlib for python==3.9 and 3.10
+ 
  step4
  then install face_recognition module
       -> pip3 install face_recognition
