@@ -13,6 +13,7 @@ then install cmake
      -> pip3 install cmake
 
 
+
 step3
 then install dlib file according to your python version
       -> pip3 install 'file location'
@@ -21,3 +22,6 @@ then install dlib file according to your python version
  step4
  then install face_recognition module
       -> pip3 install face_recognition
+
+
+![2](https://github.com/Sauravkumar1111/Face-Recognition/assets/151803242/afe9285c-dd56-48ba-a69a-b3cd11c730b2)
